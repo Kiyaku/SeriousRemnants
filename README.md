@@ -5,7 +5,7 @@ Use this repository to submit bug reports, suggestions and structures for the Se
 # Recurrent Complex Structure Submissions
 If you have an idea or a structure to be used in this pack, open a new ticket starting with [Structure] and post your ideas and/or structure file. 
 
-[TODOL: Add adventureblock instructions]
+[TODO]: Add adventureblock instructions]
 
 Please keep some things in mind when building structures:
 - The rarity of blocks. If a player can mine out blocks, maybe don't place things that would give you too many resources
