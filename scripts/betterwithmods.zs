@@ -7,7 +7,7 @@ import mods.betterwithmods.Cauldron;
 
 // Anvil
 recipes.remove(<embers:mech_core>);
-SteelAnvil.add(<embers:mech_core>, [[<ore:ingotIron>, <minecraft:compass>, <ore:ingotIron>], [<ore:plateLead>, <betterwithmods:material:14>, <ore:plateLead>], [<ore:ingotIron>, <ore:plateLead>, <ore:ingotIron>]]);
+SteelAnvil.addShaped(<embers:mech_core>, [[<ore:ingotIron>, <minecraft:compass>, <ore:ingotIron>], [<ore:plateLead>, <betterwithmods:material:14>, <ore:plateLead>], [<ore:ingotIron>, <ore:plateLead>, <ore:ingotIron>]]);
 
 // Saw
 Saw.remove(<dendrology:log0>);

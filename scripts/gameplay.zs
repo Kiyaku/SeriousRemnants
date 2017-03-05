@@ -60,3 +60,10 @@ recipes.addShaped(<waystones:return_scroll> * 1, [[<ore:nuggetGold>, <minecraft:
 <waystones:warp_scroll>.addTooltip(format.green(format.italic("Can only be found in loot chests.")));
 <waystones:warp_stone>.addTooltip(format.green(format.italic("Can only be found in loot chests.")));
 <waystones:waystone>.addTooltip(format.green(format.italic("Can only be found in loot chests.")));
+
+<roots:bark_oak>.addTooltip(format.green(format.italic("Use the BetterWithMods saw to get bark")));
+<roots:bark_birch>.addTooltip(format.green(format.italic("Use the BetterWithMods saw to get bark")));
+<roots:bark_spruce>.addTooltip(format.green(format.italic("Use the BetterWithMods saw to get bark")));
+<roots:bark_dark_oak>.addTooltip(format.green(format.italic("Use the BetterWithMods saw to get bark")));
+<roots:bark_acacia>.addTooltip(format.green(format.italic("Use the BetterWithMods saw to get bark")));
+<roots:bark_jungle>.addTooltip(format.green(format.italic("Use the BetterWithMods saw to get bark")));
