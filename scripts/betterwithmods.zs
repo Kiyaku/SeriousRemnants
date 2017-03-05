@@ -59,30 +59,30 @@ Saw.add([<betterwithmods:material:22> * 2, <dendrology:planks0:12> * 6], <dendro
 
 
 // Cauldron
-Cauldron.remove(<betterwithmods:material:6>);
-Cauldron.remove(<betterwithmods:material:33>);
+//Cauldron.remove(<betterwithmods:material:6>);
+//Cauldron.remove(<betterwithmods:material:33>);
 
 // -- Oak
-Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_oak> * 5]);
-Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_oak> * 5]);
+Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_oak> * 1]);
+Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_oak> * 1]);
 
 // -- Spruce
-Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_spruce> * 3]);
-Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_spruce> * 3]);
+Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_spruce> * 1]);
+Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_spruce> * 1]);
 
 // -- Birch
-Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_birch> * 2]);
-Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_birch> * 2]);
+Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_birch> * 1]);
+Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_birch> * 1]);
 
 // -- Jungle
-Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_jungle> * 4]);
-Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_jungle> * 4]);
+Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_jungle> * 1]);
+Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_jungle> * 1]);
 
 // -- Spruce
-Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_acacia> * 2]);
-Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_acacia> * 2]);
+Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_acacia> * 1]);
+Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_acacia> * 1]);
 
 // -- Dark Oak
-Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_dark_oak> * 8]);
-Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_dark_oak> * 8]);
+Cauldron.add(<betterwithmods:material:33> * 2, null, [<betterwithmods:material:34> * 2, <roots:bark_dark_oak> * 1]);
+Cauldron.add(<betterwithmods:material:6>, null, [<betterwithmods:material:7>, <roots:bark_dark_oak> * 1]);
 

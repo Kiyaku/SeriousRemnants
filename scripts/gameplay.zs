@@ -54,7 +54,6 @@ recipes.remove(<waystones:waystone>);
 recipes.addShaped(<waystones:return_scroll> * 1, [[<ore:nuggetGold>, <minecraft:ender_pearl>, <ore:nuggetGold>], [<minecraft:paper>, <minecraft:paper>, <minecraft:paper>]]);
 
 
-
 // Tooltips
 <betterwithmods:creeper_oyster>.addTooltip(format.green(format.italic("Rare creeper drop. Can also be aquired by shearing creepers.")));
 
