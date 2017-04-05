@@ -21,7 +21,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
-          "visibility": "NORMAL",
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "survivalist:chopping_block",
@@ -133,8 +133,8 @@
           ],
           "rewardID": "bq_standard:item",
           "index": 0
-        }
-      ],
+        
+}      ],
       "preRequisites": [],
       "questID": 0
     },
@@ -301,7 +301,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
-          "visibility": "NORMAL",
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "toughasnails:canteen",
@@ -418,7 +418,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -499,10 +499,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -557,7 +557,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -624,7 +624,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -697,10 +697,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -766,10 +766,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -835,10 +835,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -922,10 +922,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -991,10 +991,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1072,10 +1072,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1095,7 +1095,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
-          "visibility": "NORMAL",
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:bellows",
@@ -1151,10 +1151,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1214,10 +1214,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1297,10 +1297,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1366,10 +1366,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1465,10 +1465,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             },
             {
               "id": "betterquesting:extra_life",
@@ -1534,10 +1534,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1616,10 +1616,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             },
             {
               "id": "embers:crystal_ember",
@@ -1703,10 +1703,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1854,10 +1854,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -1923,10 +1923,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2020,10 +2020,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             },
             {
               "id": "betterquesting:extra_life",
@@ -2095,10 +2095,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2164,10 +2164,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2233,10 +2233,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2332,10 +2332,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2419,10 +2419,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             },
             {
               "id": "betterquesting:extra_life",
@@ -2497,10 +2497,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             },
             {
               "id": "torchmaster:mega_torch",
@@ -2572,10 +2572,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2635,10 +2635,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2698,10 +2698,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2842,10 +2842,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2905,10 +2905,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -2968,10 +2968,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             },
             {
               "id": "betterquesting:extra_life",
@@ -3061,10 +3061,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -3130,10 +3130,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -3193,10 +3193,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -3288,10 +3288,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -3369,10 +3369,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -3450,10 +3450,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -3602,7 +3602,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -3675,7 +3675,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -3736,7 +3736,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -3797,7 +3797,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -3870,7 +3870,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -3937,7 +3937,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -4016,10 +4016,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4095,10 +4095,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4168,7 +4168,7 @@
               "Damage": 0
             },
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -4231,7 +4231,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -4304,7 +4304,7 @@
               "Damage": 0
             },
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -4367,10 +4367,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4448,10 +4448,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4509,7 +4509,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -4576,10 +4576,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4637,10 +4637,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4771,10 +4771,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -4856,7 +4856,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -4961,10 +4961,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5022,10 +5022,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5085,10 +5085,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5148,10 +5148,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5217,10 +5217,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5328,10 +5328,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5409,10 +5409,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             },
             {
               "id": "betterquesting:extra_life",
@@ -5490,10 +5490,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5511,7 +5511,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": 432000,
-          "visibility": "NORMAL",
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "harvestcraft:cheeseburgeritem",
@@ -5910,10 +5910,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -5971,10 +5971,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6032,7 +6032,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -6111,10 +6111,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6180,10 +6180,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6277,10 +6277,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6483,10 +6483,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6548,10 +6548,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6615,10 +6615,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 25
+              "Damage": 1
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6688,10 +6688,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6755,10 +6755,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6828,10 +6828,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6901,10 +6901,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -6968,10 +6968,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -7043,10 +7043,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 50
+              "Damage": 2
             }
           ],
           "rewardID": "bq_standard:item",
@@ -7104,7 +7104,7 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
               "Damage": 0
@@ -7171,10 +7171,10 @@
         {
           "rewards": [
             {
-              "id": "bq_standard:loot_chest",
+              "id": "sradditions:loot_crate",
               "Count": 1,
               "OreDict": "",
-              "Damage": 100
+              "Damage": 3
             }
           ],
           "rewardID": "bq_standard:item",
