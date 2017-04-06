@@ -5,7 +5,7 @@
       "home_anchor_y": 0,
       "livesmax": 10,
       "home_anchor_x": 0.5,
-      "editmode": true,
+      "editmode": false,
       "hardcore": false,
       "home_image": "betterquesting:textures/gui/default_title.png",
       "home_offset_x": -128,
@@ -133,8 +133,8 @@
           ],
           "rewardID": "bq_standard:item",
           "index": 0
-        
-}      ],
+        }
+      ],
       "preRequisites": [],
       "questID": 0
     },
@@ -645,6 +645,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:windmill",
@@ -720,6 +721,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:material",
@@ -789,6 +791,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:saw",
@@ -858,6 +861,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:single_machine",
@@ -945,6 +949,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:single_machine",
@@ -1014,6 +1019,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:single_machine",
@@ -1174,6 +1180,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:steel_anvil",
@@ -1237,6 +1244,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:shard_ember",
@@ -1320,6 +1328,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:unfired_pottery",
@@ -1389,6 +1398,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:steel_pickaxe",
@@ -1494,6 +1504,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:codex",
@@ -1557,6 +1568,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:ember_activator",
@@ -1645,6 +1657,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:block_furnace",
@@ -1796,6 +1809,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:stamper_base",
@@ -1877,6 +1891,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:ingot_dawnstone",
@@ -1946,6 +1961,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:staff_ember",
@@ -2049,6 +2065,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:copper_cell",
@@ -2118,6 +2135,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "minecraft:cooked_beef",
@@ -2187,6 +2205,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:dust_ash",
@@ -2256,6 +2275,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:alchemy_tablet",
@@ -2355,6 +2375,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:ashen_cloak_head",
@@ -2448,6 +2469,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:glimmer_lamp",
@@ -2526,6 +2548,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "embers:dawnstone_anvil",
@@ -2595,6 +2618,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:bark_oak",
@@ -2658,6 +2682,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:herblore_book",
@@ -2721,6 +2746,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "vc:airship_workbench",
@@ -2802,6 +2828,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:spellcraft_book",
@@ -2865,6 +2892,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:ritual_book",
@@ -2928,6 +2956,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:forbidden_book",
@@ -2997,6 +3026,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:pereskia_blossom",
@@ -3084,6 +3114,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:bonfire",
@@ -3153,6 +3184,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:lectern",
@@ -3216,6 +3248,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "roots:staff",
@@ -3311,6 +3344,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "vc:module_inventory_small",
@@ -3392,6 +3426,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "vc:module_fuel_infinite",
@@ -3473,6 +3508,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "vc:v4/item_airship_v4",
@@ -4116,6 +4152,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "toughasnails:season_clock",
@@ -4252,6 +4289,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "toughasnails:campfire",
@@ -4327,6 +4365,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "betterwithmods:advanced_bellows",
@@ -4792,6 +4831,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "survivalist:rack",
@@ -4982,6 +5022,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "harvestcraft:toastitem",
@@ -5045,6 +5086,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "cookingforblockheads:cow_jar",
@@ -5108,6 +5150,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "cookingforblockheads:kitchen_floor",
@@ -5171,6 +5214,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "minecraft:emerald",
@@ -5240,6 +5284,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "harvestcraft:mortarandpestleitem",
@@ -5351,6 +5396,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "harvestcraft:hardenedleatherchestitem",
@@ -6053,6 +6099,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "storagedrawers:controller",
@@ -6201,6 +6248,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "storagedrawers:upgrade_storage",
@@ -6922,6 +6970,7 @@
           "lockedprogress": false,
           "tasklogic": "AND",
           "repeattime": -1,
+          "visibility": "ALWAYS",
           "simultaneous": false,
           "icon": {
             "id": "rustic:apiary",
@@ -7183,6 +7232,100 @@
       ],
       "preRequisites": [],
       "questID": 93
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "issilent": false,
+          "snd_complete": "minecraft:entity.player.levelup",
+          "lockedprogress": false,
+          "tasklogic": "AND",
+          "repeattime": -1,
+          "visibility": "HIDDEN",
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:nether_star",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "globalshare": false,
+          "questlogic": "AND",
+          "partysinglereward": false,
+          "snd_update": "minecraft:entity.player.levelup",
+          "autoclaim": false,
+          "ismain": false,
+          "name": "New Quest",
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": true,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:bedrock",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [
+        95
+      ],
+      "questID": 94
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "issilent": false,
+          "snd_complete": "minecraft:entity.player.levelup",
+          "lockedprogress": false,
+          "tasklogic": "AND",
+          "repeattime": -1,
+          "visibility": "HIDDEN",
+          "simultaneous": false,
+          "icon": {
+            "id": "minecraft:nether_star",
+            "Count": 1,
+            "OreDict": "",
+            "Damage": 0
+          },
+          "globalshare": false,
+          "questlogic": "AND",
+          "partysinglereward": false,
+          "snd_update": "minecraft:entity.player.levelup",
+          "autoclaim": false,
+          "ismain": false,
+          "name": "Unlock new knowledge",
+          "desc": "No Description"
+        }
+      },
+      "tasks": [
+        {
+          "partialMatch": false,
+          "ignoreNBT": false,
+          "requiredItems": [
+            {
+              "id": "minecraft:bedrock",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0
+            }
+          ],
+          "taskID": "bq_standard:crafting",
+          "index": 0
+        }
+      ],
+      "rewards": [],
+      "preRequisites": [],
+      "questID": 95
     }
   ],
   "questLines": [
@@ -7463,6 +7606,12 @@
           "x": 42,
           "y": 168,
           "id": 31
+        },
+        {
+          "size": 24,
+          "x": 84,
+          "y": 168,
+          "id": 95
         }
       ],
       "lineID": 2,
@@ -7855,6 +8004,26 @@
       ],
       "lineID": 7,
       "order": 7
+    },
+    {
+      "properties": {
+        "betterquesting": {
+          "name": "§kAncient Technology",
+          "bg_image": "",
+          "bg_size": 256,
+          "desc": ""
+        }
+      },
+      "quests": [
+        {
+          "size": 24,
+          "x": -12,
+          "y": 0,
+          "id": 94
+        }
+      ],
+      "lineID": 8,
+      "order": 8
     }
   ],
   "format": "1.0.0"

@@ -12,7 +12,7 @@ val mythic = table.addPool("mythic", 1, 2, 1, 1);
 
 // common.addItemEntryHelper(<minecraft:apple>, 1, 1, [], []);
 
-var chestNames = ["abandoned_mineshaft", "desert_pyramid", "end_city_treasure", "igloo_chest", "jungle_temple", "jungle_temple_dispenser", "nether_bridge", "simple_dungeon", "spawn_bonus_chest", "stronghold_corridor", "stronghold_crossing", "stronghold_library", "village_blacksmith", "woodland_mansion"] as string[];
+var chestNames = ["abandoned_mineshaft", "desert_pyramid", "end_city_treasure", "igloo_chest", "jungle_temple", "nether_bridge", "simple_dungeon", "stronghold_corridor", "stronghold_crossing", "stronghold_library", "village_blacksmith", "woodland_mansion"] as string[];
 var mobNames = ["skeleton", "zombie", "creeper", "spider", "blaze", "zombie_villager", "husk", "stray"] as string[];
 
 
@@ -30,8 +30,8 @@ for mobName in mobNames {
 	val tempTable = LootTables.getTable("minecraft:entities/" + mobName);
 	val tempPool = tempTable.getPool("main");
 
-	tempPool.addItemEntryHelper(<sradditions:loot_crate:0>, 1, 1, [Functions.setCount(0, 1)], [Conditions.killedByPlayer()]);
-	tempPool.addItemEntryHelper(<sradditions:loot_crate:1>, 1, 1, [Functions.setCount(0, 1)], [Conditions.killedByPlayer()]);
+	tempPool.addItemEntryHelper(<sradditions:loot_crate:0>, 2, 1, [Functions.setCount(0, 1)], [Conditions.killedByPlayer()]);
+	tempPool.addItemEntryHelper(<sradditions:loot_crate:1>, 2, 1, [Functions.setCount(0, 1)], [Conditions.killedByPlayer()]);
 	tempPool.addItemEntryHelper(<sradditions:loot_crate:2>, 1, 1, [Functions.setCount(0, 1)], [Conditions.killedByPlayer()]);
 	tempPool.addItemEntryHelper(<sradditions:loot_crate:3>, 1, 1, [Functions.setCount(0, 1)], [Conditions.killedByPlayer()]);
 }
@@ -43,6 +43,12 @@ common.addItemEntryHelper(<minecraft:stone:1> * 16, 50, 1, [Functions.setCount(8
 common.addItemEntryHelper(<minecraft:stone:5> * 16, 50, 1, [Functions.setCount(8, 16)], []);
 common.addItemEntryHelper(<minecraft:stone:3> * 16, 50, 1, [Functions.setCount(8, 16)], []);
 common.addItemEntryHelper(<minecraft:clay> * 16, 1, 50, [Functions.setCount(8, 16)], []);
+
+common.addItemEntryHelper(<minecraft:dirt> * 16, 45, 1, [Functions.setCount(8, 16), Functions.setMetadata(0, 2)], []);
+common.addItemEntryHelper(<minecraft:sand> * 16, 45, 1, [Functions.setCount(8, 16), Functions.setMetadata(0, 1)], []);
+common.addItemEntryHelper(<minecraft:gravel> * 16, 45, 1, [Functions.setCount(8, 16)], []);
+common.addItemEntryHelper(<minecraft:grass> * 16, 45, 1, [Functions.setCount(8, 16)], []);
+common.addItemEntryHelper(<minecraft:stained_hardened_clay> * 16, 45, 1, [Functions.setCount(8, 16), Functions.setMetadata(0, 15)], []);
 
 common.addItemEntryHelper(<minecraft:log2> * 16, 50, 1, [Functions.setCount(8, 16)], []);
 common.addItemEntryHelper(<minecraft:log2:1> * 16, 50, 1, [Functions.setCount(8, 16)], []);
